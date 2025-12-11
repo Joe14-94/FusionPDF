@@ -1,0 +1,5 @@
+{
+  "name": "PDF Fusion Pro",
+  "description": "Une application rapide et sécurisée pour fusionner vos fichiers PDF directement dans votre navigateur. Aucune donnée n'est envoyée à un serveur.",
+  "requestFramePermissions": []
+}
